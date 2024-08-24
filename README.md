@@ -18,11 +18,9 @@ ETL Dimensi Jenis Pembelian
 ![image](https://github.com/user-attachments/assets/b4e7df52-cd04-4f63-92f8-a1e9756b40a3)
 ETL Fakta Penjualan
 ![image](https://github.com/user-attachments/assets/884c5aaf-89aa-4efd-9909-f770c787a761)
-## Labeling
-Label dibuat secara manual untuk mengkategorikan sentimen dalam tweet karena pendekatan ini dipercaya lebih akurat dalam menangkap nuansa dan konteks bahasa.
 
 ## Scheme Data Mart
-![image](https://github.com/user-attachments/assets/bf8486d0-69a3-4cbc-aecf-80ca68711a2f)
+![image](https://github.com/user-attachments/assets/029fe582-afd9-4ee3-8341-b7fb42783823)
 
 ## Dashboard
 ![image](https://github.com/user-attachments/assets/93f819bf-ca28-499d-9905-59fce3755a56)
