@@ -14,9 +14,9 @@ Dataset yang digunakan kali ini adalah data sintesis yang dibuat berdasarkan str
 
 ## ETL
 ETL (Extract, Transform, Load) adalah proses untuk mengumpulkan data dari berbagai sumber (Extract), mengubahnya menjadi format yang konsisten dan dapat digunakan (Transform), dan memuatnya ke dalam sistem tujuan seperti data warehouse atau database (Load). ETL digunakan untuk mengintegrasikan data, membersihkan data, dan mendukung analisis bisnis yang lebih baik.
-ETL Dimensi Jenis Pembelian
+### ETL Dimensi Jenis Pembelian
 ![image](https://github.com/user-attachments/assets/b4e7df52-cd04-4f63-92f8-a1e9756b40a3)
-ETL Fakta Penjualan
+### ETL Fakta Penjualan
 ![image](https://github.com/user-attachments/assets/884c5aaf-89aa-4efd-9909-f770c787a761)
 
 ## Scheme Data Mart
